@@ -9,3 +9,30 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+html, body {
+    background-color: aquamarine;
+    font: 2.4em Futura, 'Century Gothic', AppleGothic, sans-serif;
+}
+
+header, footer {
+    background-color:blueviolet;
+}
+
+h1 {
+    text-align: center;
+}
+
+image {
+    padding: 20px;
+    background-color:black;
+}
+
+ul, li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-style: italic;
+    color: yellow;
+}
